@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vtrushin/test/issues"
   },
-  "homepage": "https://github.com/vtrushin/test#readme"
+  "homepage": "https://github.com/vtrushin/test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
